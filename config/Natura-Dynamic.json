@@ -1,0 +1,8 @@
+{
+  "CONFIG_VERSION": 1,
+  "modules": {
+    "Natura TE4 Compatibility": {
+      "enabled": true
+    }
+  }
+}
